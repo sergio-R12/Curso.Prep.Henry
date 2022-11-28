@@ -1,0 +1,4 @@
+For : es un tipo de bucle que permite imprimir tantas veces como le indiquemos ,mientras la condicion sea verdadera.
+&& (end) : es un operador logico , que permite comparar varias operacianes con conceptos booleanos, devolvera "true" son si los dos o mas operadores son true , de lo contrario devolvera "false".
+|| (or) : se utiliza para comparar 2 o mas operaciones al igual que && ,con la diferencia que este devolvero "true" si uno o ambos operadores son true , de lo contrario devolvera false.
+! (not) : es el operador logico que niega cualquier operacion.
